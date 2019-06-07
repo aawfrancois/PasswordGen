@@ -1,6 +1,5 @@
 import React from 'react'
 import firebase from 'firebase'
-import { StyleSheet, Platform, Image, Text, View } from 'react-native'
 import { createAppContainer, createSwitchNavigator } from 'react-navigation'
 
 // import the different screens
